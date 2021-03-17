@@ -1,8 +1,8 @@
 # Election-Analysis
+Using the Power of Python to automate the vote-counting process for a local election.
+
 ## Project Overview
 We will be assisting Colorado board of election Employee Tom with an Election Audit of a local congressional Election.
-
-
 Below result you can see calculated :
 1. Total number of votes cast.
 2. List of candidates who recieved votes.
