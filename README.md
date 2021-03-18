@@ -32,4 +32,12 @@ The candidate results were:
 The winner of the election was:
 - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
+## Challenge Overview
+Now that we have helped Seth and Tom submit the election audit results to the election commission. They have requested some additional data to complete the audit:
+The voter turnout for each county
+The percentage of votes from each county out of the total count
+The county with the highest turnout
+
+## Challenge Summary 
+
 
