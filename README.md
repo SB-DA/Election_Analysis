@@ -59,6 +59,10 @@ The county with the highest turnout
   Raymon Anthony Doane: 3.1% (11,606) 
 
 - Winning Candidate was Diana DeGette . Her vote count was 272,892 that is 73.8% votes.
-- Below is a Screenshot of the Results.
 
+#### Below is a Screenshot of the Results.
 ![image](https://user-images.githubusercontent.com/78935551/111884365-aa96ab00-8997-11eb-8ac6-60a63c10ad43.png)
+
+## Election Audit Summary
+- The Script can be manupilated by just changing the county of Districts and can be used to analyze other Congressional Elections.
+- It can also be used for senatorial Elections and Local Elections.
